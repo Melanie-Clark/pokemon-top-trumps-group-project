@@ -27,7 +27,7 @@ The player is then asked if they would like to play again.
 
 As soon as the player stops the game, the player is presented with the Turtle image below: 
 
-![Game Over](Assets/game_over.png)
+![Game Over](assets/game_over.png)
 
 High scores are then saved to a high_scores file and the player is asked if they would like to reset the high scores.
 
