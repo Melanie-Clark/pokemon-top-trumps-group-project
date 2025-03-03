@@ -1,4 +1,4 @@
-# PokemonTop Trumps
+# Pokemon Top Trumps
 
 Pokemon Top Trumps is based on the well-known top trumps game where 2 players battle against each other, and the player with the highest stat wins.
 
